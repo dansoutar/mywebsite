@@ -1,0 +1,15 @@
+{
+  "name": "traversy_todo_list",
+  "version": "1.0.0",
+  "description": "Traversy To Do List",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan Soutar",
+  "license": "MIT",
+  "homepage": "https://dansoutar.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
